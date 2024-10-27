@@ -1,9 +1,8 @@
 {
-	"id": "Cherman0_BalanceTweaks",
+	"id": "Cherman0_ForceBraceletTweaks",
 	"title": "Force Bracelet Rebalance",
 	"description": "Changes the force bracelet to have a limited uptime before it goes on cooldown, and uses much more power.",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"author": "Cherman0",
-	"tags": "Item",
 	"PreviewImage": "preview.png"
 }
